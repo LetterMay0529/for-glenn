@@ -1,0 +1,26 @@
+Create Controller and Model on Syntax
+
+php artisan make:controller CustomersController --model=Customer
+
+== refresh the attribute in DB table ==
+php artisan migrate:refresh --path=/database/migrations/
+
+== create migration ===
+php artisan make:migration create_flights_table
+
+
+php artisan make:controller SubscriptionController --model=Subscription
+
+
+php artisan make:model Drink
+
+GCASH: 09615146854
+
+012153
+MPIN: 2005 // New MPIN: 1718
+
+
+I got sick and I notice that I have a lump on my throat. Please attack photo. I'm unsure if this is the reason why I got sick. I already notice it a few months ago. 
+
+//white space
+nl2br(e($text))
